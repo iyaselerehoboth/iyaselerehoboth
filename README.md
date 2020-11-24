@@ -33,4 +33,4 @@
 
 ### GitHub Analytics
 [![Rehoboth's github stats](https://github-readme-stats.vercel.app/api?username=iyaselerehoboth&count_private=true&show_icons=true&theme=dracula)](https://github.com/iyaselerehoboth)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyaselerehoboth)](https://github.com/iyaselerehoboth)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyaselerehoboth&theme=dracula&langs_count=10&layout=compact&custom_title=Coding Languages)](https://github.com/iyaselerehoboth)
