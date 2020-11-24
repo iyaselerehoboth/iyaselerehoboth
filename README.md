@@ -5,9 +5,9 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=iyaselerehoboth&label=Views&color=blue&style=plastic" alt="Iyasele Rehoboth" /></p>
 
 
-### About Me:
+### :busts_in_silhouette: About Me:
 
-- :adult: I'm a Computer Engineering graduate from  Lagos, Nigeria.
+- :man: I'm a Computer Engineering graduate from  Lagos, Nigeria.
 - 🔭 I’m currently working on improving myself.
 - 🌱 I’m currently learning: [Kotlin](https://kotlinlang.org/) and [AWS](https://aws.amazon.com/)
 - 👯 I’m looking to collaborate on: Mobile Development projects
