@@ -5,9 +5,9 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=iyaselerehoboth&label=Views&color=blue&style=plastic" alt="Iyasele Rehoboth" /></p>
 
 
-### :busts_in_silhouette: About Me:
+### 👤 About Me:
 
-- :man: I'm a Computer Engineering graduate from  Lagos, Nigeria.
+- 🤵 I'm a Computer Engineering graduate from  Lagos, Nigeria.
 - 🔭 I’m currently working on improving myself.
 - 🌱 I’m currently learning: [Kotlin](https://kotlinlang.org/) and [AWS](https://aws.amazon.com/)
 - 👯 I’m looking to collaborate on: Mobile Development projects
@@ -17,7 +17,7 @@
 - ⚡ Fun fact: ...
 
 
-### :wrench: Tech Stack & Tools:
+### 🛠️ Tech Stack & Tools:
 ![Android](https://img.shields.io/badge/-Android-000000?style=plastic&logoColor=3DDC84&logo=android)
 ![Java](https://img.shields.io/badge/-Java-000000?style=plastic&logoColor=FFFFFF&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=plastic&logoColor=0095D5&logo=kotlin)
@@ -32,10 +32,13 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=plastic&logoColor=007ACC&logo=visual-studio-code)
 
 
-### GitHub Analytics
-[![Rehoboth's github stats](https://github-readme-stats.vercel.app/api?username=iyaselerehoboth&count_private=true&show_icons=true&theme=dracula)](https://github.com/iyaselerehoboth)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyaselerehoboth&theme=dracula&langs_count=6&layout=compact)](https://github.com/iyaselerehoboth)
+### 📝 GitHub Analytics
+<a href="https://github.com/iyaselerehoboth">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=iyaselerehoboth&count_private=true&show_icons=true&theme=dracula" alt="Rehoboth's github stats" />
+</a>
+<a href="https://github.com/iyaselerehoboth">
+    <img align="right" src="hhttps://github-readme-stats.vercel.app/api/top-langs/?username=iyaselerehoboth&theme=dracula&langs_count=6&layout=compact" alt="Top Langs" />
+</a>
 
 
 ### Some of my works:
