@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-## Nice meeting you, I'm [Iyasele Rehoboth](https://github.com/iyaselerehoboth)
+## Nice to meet you, I'm [Iyasele Rehoboth](https://github.com/iyaselerehoboth)
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=iyaselerehoboth&label=Views&color=blue&style=plastic" alt="Iyasele Rehoboth" /></p>
 
 
 ### About Me:
 
+- :adult: I'm a Computer Engineering graduate from  Lagos, Nigeria.
 - 🔭 I’m currently working on improving myself.
 - 🌱 I’m currently learning: [Kotlin](https://kotlinlang.org/) and [AWS](https://aws.amazon.com/)
 - 👯 I’m looking to collaborate on: Mobile Development projects
@@ -16,7 +17,7 @@
 - ⚡ Fun fact: ...
 
 
-### Tech Stack:
+### :wrench: Tech Stack & Tools:
 ![Android](https://img.shields.io/badge/-Android-000000?style=plastic&logoColor=3DDC84&logo=android)
 ![Java](https://img.shields.io/badge/-Java-000000?style=plastic&logoColor=FFFFFF&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=plastic&logoColor=0095D5&logo=kotlin)
@@ -33,7 +34,9 @@
 
 ### GitHub Analytics
 [![Rehoboth's github stats](https://github-readme-stats.vercel.app/api?username=iyaselerehoboth&count_private=true&show_icons=true&theme=dracula)](https://github.com/iyaselerehoboth)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyaselerehoboth&theme=dracula&langs_count=6&layout=compact)](https://github.com/iyaselerehoboth)
+
 
 ### Some of my works:
 [![TheElements Card](https://github-readme-stats.vercel.app/api/pin/?username=iyaselerehoboth&repo=the-elements)](https://github.com/iyaselerehoboth/the-elements)
