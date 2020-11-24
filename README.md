@@ -13,6 +13,7 @@
 - 👯 I’m looking to collaborate on: Mobile Development projects
 - 💬 Ask me about: Native Android Apps Development
 - 😄 Pronouns: He/His
+- 😉 Fun Facts: When I am not coding, I like to read or play video games.
 
 
 ### 🛠️ Tech Stack & Tools:
