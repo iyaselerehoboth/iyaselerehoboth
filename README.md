@@ -23,9 +23,10 @@
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=plastic&logoColor=777BB4&logo=php)
 ![Git](https://img.shields.io/badge/-Git-000000?style=plastic&logoColor=F05032&logo=git)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=plastic&logoColor=4479A1&logo=mysql)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=plastic&logoColor=FFFFFF&logo=markdown)
 ![Android-Studio](https://img.shields.io/badge/-AndroidStudio-000000?style=plastic&logoColor=3DDC84&logo=android-studio)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=plastic&logoColor=E95420&logo=ubuntu)
-![Windows](https://img.shields.io/badge/-Windows-000000?style=plastic&logoColor=0078D6&logo=php)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=plastic&logoColor=181717&logo=github)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=plastic&logoColor=0078D6&logo=windows)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=plastic&logoColor=FFFFFF&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=plastic&logoColor=007ACC&logo=visual-studio-code)
 
