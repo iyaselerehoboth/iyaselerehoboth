@@ -2,7 +2,7 @@
 
 ## Nice meeting you, I'm [Iyasele Rehoboth](https://github.com/iyaselerehoboth)
 
-p align="left"><img src="https://komarev.com/ghpvc/?username=iyaselerehoboth&label=Views&color=blue&style=plastic" alt="Iyasele Rehoboth" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=iyaselerehoboth&label=Views&color=blue&style=plastic" alt="Iyasele Rehoboth" /></p>
 
 
 ### About Me:
