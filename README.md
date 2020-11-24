@@ -37,3 +37,5 @@
 
 ### Some of my works:
 [![TheElements Card](https://github-readme-stats.vercel.app/api/pin/?username=iyaselerehoboth&repo=the-elements)](https://github.com/iyaselerehoboth/the-elements)
+
+[![GADSLeaderboard Card](https://github-readme-stats.vercel.app/api/pin/?username=iyaselerehoboth&repo=GADSLeaderboard)](https://github.com/iyaselerehoboth/GADSLeaderboard)
