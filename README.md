@@ -7,10 +7,10 @@
 
 ### About Me:
 
-- 🔭 I’m currently working on: different things.
+- 🔭 I’m currently working on improving myself.
 - 🌱 I’m currently learning: [Kotlin](https://kotlinlang.org/) and [AWS](https://aws.amazon.com/)
 - 👯 I’m looking to collaborate on: Mobile Development projects
-- 💬 Ask me about: Mobile Apps Development
+- 💬 Ask me about: Native Android Apps Development
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
@@ -18,7 +18,7 @@
 
 ### Tech Stack:
 ![Android](https://img.shields.io/badge/-Android-000000?style=plastic&logoColor=3DDC84&logo=android)
-![Java](https://img.shields.io/badge/-Java-000000?style=plastic&logoColor=007396&logo=java)
+![Java](https://img.shields.io/badge/-Java-000000?style=plastic&logoColor=FFFFFF&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=plastic&logoColor=0095D5&logo=kotlin)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=plastic&logoColor=777BB4&logo=php)
 ![Git](https://img.shields.io/badge/-Git-000000?style=plastic&logoColor=F05032&logo=git)
@@ -30,3 +30,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=plastic&logoColor=FFFFFF&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=plastic&logoColor=007ACC&logo=visual-studio-code)
 
+
+### GitHub Analytics
+[![Rehoboth's github stats](https://github-readme-stats.vercel.app/api?username=iyaselerehoboth&count_private=true&show_icons=true&theme=dracula)](https://github.com/iyaselerehoboth)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyaselerehoboth)](https://github.com/iyaselerehoboth)
