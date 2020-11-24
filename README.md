@@ -33,4 +33,7 @@
 
 ### GitHub Analytics
 [![Rehoboth's github stats](https://github-readme-stats.vercel.app/api?username=iyaselerehoboth&count_private=true&show_icons=true&theme=dracula)](https://github.com/iyaselerehoboth)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyaselerehoboth&theme=dracula&langs_count=10&layout=compact)](https://github.com/iyaselerehoboth)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyaselerehoboth&theme=dracula&langs_count=6&layout=compact)](https://github.com/iyaselerehoboth)
+
+### Some of my works:
+[![TheElements Card](https://github-readme-stats.vercel.app/api/pin/?username=iyaselerehoboth&repo=the-elements)](https://github.com/iyaselerehoboth/the-elements)
