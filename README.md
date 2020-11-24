@@ -37,7 +37,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=iyaselerehoboth&count_private=true&show_icons=true&theme=dracula" alt="Rehoboth's github stats" />
 </a>
 <a href="https://github.com/iyaselerehoboth">
-    <img align="right" src="hhttps://github-readme-stats.vercel.app/api/top-langs/?username=iyaselerehoboth&theme=dracula&langs_count=6&layout=compact" alt="Top Langs" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyaselerehoboth&theme=dracula&langs_count=6&layout=compact" alt="Top Langs" />
 </a>
 
 
