@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**iyaselerehoboth/iyaselerehoboth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Nice meeting you, I'm **[Iyasele Rehoboth](https://github.com/iyaselerehoboth)**
 
-Here are some ideas to get you started:
+p align="left"> <img src="https://komarev.com/ghpvc/?username=iyaselerehoboth&label=Views&color=blue&style=plastic" alt="Iyasele Rehoboth" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
+### About Me:
+
+- 🔭 I’m currently working on different things.
+- 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/) and [AWS](https://aws.amazon.com/)
+- 👯 I’m looking to collaborate on Mobile Development projects
+- 💬 Ask me about Native Android Development (Java)
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
--->
+
+
+### Tech Stack:
+![Java](https://img.shields.io/badge/-Java-FFFFFF)
