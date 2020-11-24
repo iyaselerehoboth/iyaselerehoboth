@@ -13,7 +13,6 @@
 - 👯 I’m looking to collaborate on: Mobile Development projects
 - 💬 Ask me about: Native Android Apps Development
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: 
 
 
 ### 🛠️ Tech Stack & Tools:
@@ -39,8 +38,9 @@
 <a href="https://github.com/iyaselerehoboth">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyaselerehoboth&theme=dracula&langs_count=6&layout=compact" alt="Top Langs" />
 </a>
-<br/>
 
+<br/>
+<br/>
 
 ### Some of my works:
 [![TheElements Card](https://github-readme-stats.vercel.app/api/pin/?username=iyaselerehoboth&repo=the-elements)](https://github.com/iyaselerehoboth/the-elements)
@@ -50,8 +50,8 @@
 
 ### 🤝 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/rehoboth-iyasele-292303125/"><img src="https://img.shields.io/badge/-LinkedIn-FFFFFF?style=plastic&logoColor=0077B5&logo=linkedin"/></a>
-<a href="https://twitter.com/_rehoboth"><img src="https://img.shields.io/badge/-Twitter-FFFFFF?style=plastic&logoColor=1DA1F2&logo=twitter"/></a>
-<a href="mailto:rehobothi@yahoo.com"><img src="https://img.shields.io/badge/-Yahoo%20Mail-FFFFFF?style=plastic&logoColor=6001D2&logo=yahoo!"/></a>
-<a href="https://github.com/iyaselerehoboth"><img src="https://img.shields.io/badge/-GitHub-FFFFFF?style=plastic&logoColor=181717&logo=github"/></a>
+<a href="https://www.linkedin.com/in/rehoboth-iyasele-292303125/"><img src="https://img.shields.io/badge/-LinkedIn-FFFFFF?style=social&logoColor=0077B5&logo=linkedin"/></a>
+<a href="https://twitter.com/_rehoboth"><img src="https://img.shields.io/badge/-Twitter-FFFFFF?style=social&logoColor=1DA1F2&logo=twitter"/></a>
+<a href="mailto:rehobothi@yahoo.com"><img src="https://img.shields.io/badge/-Yahoo%20Mail-FFFFFF?style=social&logoColor=6001D2&logo=yahoo!"/></a>
+<a href="https://github.com/iyaselerehoboth"><img src="https://img.shields.io/badge/-GitHub-FFFFFF?style=social&logoColor=181717&logo=github"/></a>
 </p>
