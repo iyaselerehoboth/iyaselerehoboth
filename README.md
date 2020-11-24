@@ -18,3 +18,5 @@
 
 ### Tech Stack:
 ![Java](https://img.shields.io/badge/-Java-FFFFFF?style=flat-square&color=informational&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-FFFFFF?style=flat-square&color=informational&logo=kotlin)
+![PHP](https://img.shields.io/badge/-PHP-FFFFFF?style=flat-square&color=informational&logo=php)
