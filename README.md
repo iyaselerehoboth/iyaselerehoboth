@@ -9,7 +9,7 @@
 
 - 🤵 I'm a Mobile Apps Developer.
 - 🔭 I’m currently improving my skills and learning more languages.
-- 🌱 I’m currently learning: [Kotlin](https://kotlinlang.org/) and [Python](https://www.python.org/)
+- 🌱 I’m currently learning: [Kotlin](https://kotlinlang.org/) and [NodeJS](https://nodejs.org/en/)
 - 👯 I’m looking to collaborate on: Mobile Development projects
 - 💬 Ask me about: Native Android Apps Development
 - 😄 Pronouns: He/His
