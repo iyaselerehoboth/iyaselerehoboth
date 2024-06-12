@@ -9,7 +9,7 @@
 
 - 🤵 I'm a Mobile Apps Developer.
 - 🔭 I’m currently improving my skills and learning more languages.
-- 🌱 I’m currently learning: [Kotlin](https://kotlinlang.org/) and [Flutter](https://flutter.dev)
+- 🌱 I’m currently learning: [Jetpack Compose](https://developer.android.com/develop/ui/compose) and [Flutter](https://flutter.dev)
 - 👯 I’m looking to collaborate on: Mobile Development projects
 - 💬 Ask me about: Native Android Apps Development
 - 😄 Pronouns: He/His
