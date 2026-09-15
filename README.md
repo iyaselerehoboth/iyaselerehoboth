@@ -21,6 +21,7 @@ I currently work on enterprise systems at [Babban Gona](https://babbangona.com),
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0B0F14?style=flat-square&logo=springboot&logoColor=6DB33F)
 ![PHP](https://img.shields.io/badge/PHP-0B0F14?style=flat-square&logo=php&logoColor=777BB4)
 ![MySQL](https://img.shields.io/badge/MySQL-0B0F14?style=flat-square&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B0F14?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![Docker](https://img.shields.io/badge/Docker-0B0F14?style=flat-square&logo=docker&logoColor=2496ED)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-0B0F14?style=flat-square&logo=googlecloud&logoColor=4285F4)
 ![Git](https://img.shields.io/badge/Git-0B0F14?style=flat-square&logo=git&logoColor=F05032)
