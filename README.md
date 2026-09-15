@@ -18,8 +18,11 @@ I currently work on enterprise systems at [Babban Gona](https://babbangona.com),
 ![Android](https://img.shields.io/badge/Android-0B0F14?style=flat-square&logo=android&logoColor=3DDC84)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0B0F14?style=flat-square&logo=kotlin&logoColor=7F52FF)
 ![Java](https://img.shields.io/badge/Java-0B0F14?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0B0F14?style=flat-square&logo=springboot&logoColor=6DB33F)
 ![PHP](https://img.shields.io/badge/PHP-0B0F14?style=flat-square&logo=php&logoColor=777BB4)
 ![MySQL](https://img.shields.io/badge/MySQL-0B0F14?style=flat-square&logo=mysql&logoColor=4479A1)
+![Docker](https://img.shields.io/badge/Docker-0B0F14?style=flat-square&logo=docker&logoColor=2496ED)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0B0F14?style=flat-square&logo=googlecloud&logoColor=4285F4)
 ![Git](https://img.shields.io/badge/Git-0B0F14?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0B0F14?style=flat-square&logo=github&logoColor=FFFFFF)
 
