@@ -26,10 +26,15 @@ I currently work on enterprise systems at [Babban Gona](https://babbangona.com),
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-0B0F14?style=flat-square&logo=googlecloud&logoColor=4285F4)
 ![Git](https://img.shields.io/badge/Git-0B0F14?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0B0F14?style=flat-square&logo=github&logoColor=FFFFFF)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0B0F14?style=flat-square&logo=jetpackcompose&logoColor=4285F4)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-0B0F14?style=flat-square&logo=apachekafka&logoColor=FFFFFF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0B0F14?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B0F14?style=flat-square&logo=typescript&logoColor=3178C6)
+![Next.js](https://img.shields.io/badge/Next.js-0B0F14?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
 
 ## Current focus
 
-My current focus is designing maintainable platforms, guiding technical teams, and delivering enterprise software across mobile and web.
+Architecting an offline-first agri-fintech platform: multi-tenant access control that works on-device, sync at field scale, an organisation-wide move to event-driven architecture on Kafka, and ADR-driven engineering governance.
 
 ## Connect
 
